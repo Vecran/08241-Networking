@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\08241 Networking\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\Alex\Documents\08241 Networking\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\Alex\Documents\08241 Networking\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\Alex\Documents\08241 Networking\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\Alex\Documents\08241 Networking\locationserver\locationserver\obj\Debug\locationserver.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\08241 Networking\location\location\bin\Debug\location.exe.config
+C:\Users\Alex\Documents\08241 Networking\location\location\bin\Debug\location.exe
+C:\Users\Alex\Documents\08241 Networking\location\location\bin\Debug\location.pdb
+C:\Users\Alex\Documents\08241 Networking\location\location\obj\Debug\location.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\08241 Networking\location\location\obj\Debug\location.exe
+C:\Users\Alex\Documents\08241 Networking\location\location\obj\Debug\location.pdb
